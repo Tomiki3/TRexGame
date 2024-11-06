@@ -1,0 +1,41 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity Package Manager
+[Pp]ackages/manifest.json
+[Pp]ackages/packages-lock.json
+[Pp]ackage[Cc]ache/
+
+# Asset meta files
+*.pidb
+*.pdb
+*.mdb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.tmproj
+*.log
+
+# Crash Reports
+[Cc]rash[Rr]eports/
+[Ss]tacks/
+*.stackdump
+
+# Builds
+[Bb]uild/
+[Bb]uilds/
+
+# Other files
+.vs/
+.idea/
+*.swp
+*.lock
